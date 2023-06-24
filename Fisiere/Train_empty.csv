@@ -1,0 +1,100 @@
+Transportation_type,Destination,Start_date,End_date,Duration_days,Traveler_name,Traveler_age,Traveler_gender,Traveler_nationality,Accommodation_type,Transportation_cost
+Flight,"London, UK",5/1/2023,5/8/2023,7,John Smith,35,Male,American,Hotel,600.0
+Flight,"Phuket, Thailand",6/15/2023,6/20/2023,5,Jane Doe,28,Female,Canadian,Resort,500.0
+Flight,"Bali, Indonesia",7/1/2023,7/8/2023,7,David Lee,45,Male,Korean,Villa,700.0
+Flight,"New York, USA",8/15/2023,8/29/2023,14,Sarah Johnson,29,Female,British,Hotel,1000.0
+Flight,"Paris, France",10/5/2023,10/10/2023,5,Michael Brown,42,Male,American,Hotel,800.0
+Flight,"Sydney, Australia",11/20/2023,11/30/2023,10,Emily Davis,33,Female,Australian,Hostel,1200.0
+Flight,"Rio de Janeiro, Brazil",1/5/2024,1/12/2024,7,Lucas Santos,25,Male,Brazilian,Airbnb,600.0
+Flight,"Dubai, United Arab Emirates",3/10/2024,3/17/2024,7,Mohammed Ali,39,Male,Emirati,Resort,800.0
+Flight,"Cancun, Mexico",4/1/2024,4/8/2024,7,Ana Hernandez,27,Female,Mexican,Hotel,500.0
+Flight,"Honolulu, Hawaii",6/10/2024,6/18/2024,8,Lily Wong,29,Female,Chinese,Resort,1200.0
+Flight,"Berlin, Germany",7/1/2024,7/10/2024,9,Hans Mueller,48,Male,German,Hotel,700.0
+Flight,"Marrakech, Morocco",8/20/2024,8/27/2024,7,Fatima Khouri,26,Female,Moroccan,Riad,400.0
+Plane,Paris,9/1/2023,9/10/2023,9,Sarah Johnson,30,Female,American,Hotel,400.0
+Plane,Bali,8/15/2023,8/25/2023,10,Michael Chang,28,Male,Chinese,Resort,700.0
+Plane,Tokyo,10/5/2023,10/15/2023,10,Kenji Nakamura,45,Male,Japanese,Hotel,800.0
+Bus,New York,11/20/2023,11/25/2023,5,Emily Lee,27,Female,American,Airbnb,100.0
+Plane,Sydney,12/5/2023,12/12/2023,7,James Wilson,32,Male,Australian,Hotel,600.0
+Plane,Bangkok,9/15/2023,9/23/2023,8,Raj Patel,40,Male,Indian,Hostel,500.0
+Plane,Hawaii,8/1/2023,8/10/2023,9,David Kim,34,Male,Korean,Resort,800.0
+Plane,Japan,5/10/2022,5/18/2022,8,Alice Smith,30,Female,American,Hotel,500.0
+Car rental,France,7/2/2022,7/11/2022,9,Charlie Lee,25,Male,Korean,Airbnb,300.0
+Car rental,Australia,8/20/2022,9/2/2022,13,Emma Davis,28,Female,British,Hotel,500.0
+Bus,Brazil,9/5/2022,9/14/2022,9,Olivia Martin,33,Female,Australian,Hostel,50.0
+Plane,Greece,10/12/2022,10/20/2022,8,Harry Wilson,20,Male,American,Airbnb,600.0
+Plane,Mexico,1/5/2023,1/15/2023,10,James Brown,42,Male,British,Airbnb,800.0
+Car rental,Spain,3/23/2023,3/31/2023,8,William Davis,27,Male,Korean,Hotel,400.0
+Bus,Canada,4/19/2023,4/26/2023,7,Amelia Brown,38,Female,Australian,Airbnb,75.0
+Plane,"Paris, France",6/12/2022,6/19/2022,7,Mia Johnson,25,Female,American,Hotel,600.0
+Plane,"Tokyo, Japan",12/10/2022,12/18/2022,8,Sarah Wong,28,Female,Chinese,Hostel,900.0
+Plane,"Cancun, Mexico",7/1/2023,7/8/2023,7,John Smith,45,Male,American,Resort,800.0
+Plane,"Rio de Janeiro, Brazil",11/20/2022,11/27/2022,7,Maria Silva,30,Female,Brazilian,Hotel,700.0
+Plane,"Barcelona, Spain",8/18/2023,8/25/2023,7,Emma Garcia,27,Female,Spanish,Hostel,600.0
+Plane,"New York City, USA",9/15/2022,9/22/2022,7,Michael Davis,41,Male,American,Hotel,500.0
+Bus,"Bangkok, Thailand",5/1/2023,5/7/2023,6,Nina Patel,29,Female,Indian,Airbnb,50.0
+Plane,"Amsterdam, Netherlands",6/20/2023,6/28/2023,8,Laura van den Berg,31,Female,Dutch,Hotel,700.0
+Bus,"Tokyo, Japan",10/10/2023,10/20/2023,10,David Kim,25,Male,American,Hostel,100.0
+Car rental,"Sydney, AUS",11/5/2023,11/12/2023,7,Rachel Lee,27,Female,South Korean,Airbnb,200.0
+Flight,"New York, USA",12/24/2023,12/31/2023,7,Jessica Wong,28,Female,Canadian,Hotel,800.0
+Bus,"Bangkok, Thailand",2/1/2024,2/9/2024,8,Nisa Patel,23,Female,Indian,Hostel,50.0
+Car rental,"Barcelona, Spain",4/5/2024,4/13/2024,8,Laura Gomez,29,Female,Spanish,Airbnb,250.0
+Subway,"Seoul, South Korea",5/10/2024,5/18/2024,8,Park Min Woo,27,Male,South Korean,Hostel,20.0
+Car rental,"Los Angeles, USA",6/20/2024,6/27/2024,7,Michael Chen,26,Male,Chinese,Hotel,655.2255639097745
+Plane,Paris,7/12/2022,7/18/2022,6,Rachel Sanders,35,Female,American,Hotel,800.0
+Car rental,Cape Town,1/7/2023,1/16/2023,9,Emily Watson,29,Female,British,Vacation rental,200.0
+Plane,Sydney,6/23/2023,6/29/2023,6,David Lee,43,Male,Australian,Hotel,1200.0
+Plane,Barcelona,8/18/2023,8/25/2023,7,Ana Rodriguez,31,Female,Spanish,Vacation rental,700.0
+Plane,Bali,2/1/2024,2/8/2024,7,Tom Wilson,27,Male,American,Resort,1000.0
+Plane,New York,7/20/2024,7/26/2024,6,James Chen,25,Male,American,Vacation rental,800.0
+Plane,Bangkok,9/8/2024,9/16/2024,8,Lila Patel,33,Female,Indian,Hostel,700.0
+Plane,Bali,5/21/2025,5/29/2025,8,Sarah Brown,37,Female,British,Resort,1000.0
+Plane,"Bali, Indonesia",8/5/2022,8/12/2022,7,Sarah Lee,35,Female,South Korean,Resort,800.0
+Plane,"Cancun, Mexico",4/15/2023,4/22/2023,7,Maria Hernandez,42,Female,Mexican,Resort,500.0
+Plane,"Paris, France",6/7/2023,6/14/2023,7,John Smith,46,Male,British,Hotel,700.0
+Car,"Cape Town, SA",9/1/2023,9/10/2023,9,Mark Johnson,31,Male,South African,Guesthouse,300.0
+Plane,"Bali, Indonesia",11/12/2023,11/19/2023,7,Amanda Chen,25,Female,Taiwanese,Resort,700.0
+Plane,"Sydney, Aus",2/5/2024,2/12/2024,7,David Lee,38,Male,Australian,Hotel,600.0
+Plane,"Bangkok, Thai",5/15/2024,5/22/2024,7,Nana Kwon,27,Female,Korean,Hotel,400.0
+Plane,"New York, USA",8/20/2024,8/27/2024,7,Tom Hanks,60,Male,American,Hotel,1000.0
+Plane,"Phuket, Thai",1/1/2025,1/8/2025,7,Emma Watson,32,Female,British,Resort,800.0
+Plane,Paris,6/15/2021,6/20/2021,6,John Smith,35,Male,American,Hotel,500.0
+Plane,Bali,8/10/2021,8/20/2021,11,Maria Garcia,42,Female,Spanish,Resort,700.0
+Plane,Sydney,9/1/2021,9/10/2021,9,David Lee,45,Male,Australian,Hotel,600.0
+Car rental,New York,10/15/2021,10/20/2021,6,Emily Davis,31,Female,American,Airbnb,200.0
+Plane,London,11/20/2021,11/30/2021,11,James Wilson,29,Male,British,Hostel,400.0
+Plane,Dubai,1/1/2022,1/8/2022,8,Fatima Ahmed,24,Female,Emirati,Hotel,800.0
+Plane,Rome,3/10/2022,3/20/2022,11,Giulia Rossi,30,Female,Italian,Hostel,350.0
+Car rental,Bali,4/15/2022,4/25/2022,11,Putra Wijaya,33,Male,Indonesian,Villa,300.0
+Plane,Paris,6/15/2022,6/20/2022,5,John Smith,35,Male,USA,Hotel,800.0
+Plane,Sydney,11/23/2022,12/2/2022,9,David Lee,45,Male,South Korea,Hostel,1200.0
+Plane,London,2/14/2023,2/19/2023,5,Sarah Brown,37,Female,UK,Hotel,700.0
+Car rental,New York,5/8/2023,5/14/2023,6,Michael Wong,50,Male,China,Airbnb,300.0
+Plane,Rome,8/20/2023,8/27/2023,7,Jessica Chen,31,Female,Taiwan,Hotel,900.0
+Plane,Cape Town,1/6/2024,1/14/2024,8,Maria Garcia,27,Female,Spain,Airbnb,1500.0
+Car rental,Rio de Janeiro,4/3/2024,4/10/2024,7,Rodrigo Oliveira,33,Male,Brazil,Hotel,400.0
+Plane,Bali,7/22/2024,7/28/2024,6,Olivia Kim,29,Female,South Korea,Villa,1000.0
+Plane,Paris,5/15/2022,5/20/2022,5,John Smith,35,Male,USA,Hotel,800.0
+Car rental,New York,6/20/2022,6/25/2022,5,Michael Wong,42,Male,Hong Kong,Hotel,200.0
+Plane,Bali,8/12/2022,8/20/2022,8,Lisa Chen,30,Female,Taiwan,Resort,1200.0
+Plane,Sydney,7/1/2022,7/10/2022,9,David Kim,26,Male,Canada,Hostel,900.0
+Plane,Phuket,9/5/2022,9/12/2022,7,Mark Tan,45,Male,Singapore,Villa,700.0
+Ferry,Santorini,7/15/2022,7/22/2022,7,George Chen,27,Male,Greece,Airbnb,150.0
+Car rental,Dubai,8/25/2022,8/30/2022,5,Sophia Kim,29,Female,United Arab Emirates,Hotel,300.0
+Plane,Phnom Penh,9/10/2022,9/15/2022,5,Alex Ng,33,Male,Cambodia,Hostel,500.0
+Plane,"Tokyo, Japan",2/5/2022,2/14/2022,9,Alice Smith,32,Female,American,Hotel,700.0
+Plane,"Sydney, Aus",5/1/2022,5/12/2022,11,Cindy Chen,26,Female,Chinese,Airbnb,1000.0
+Plane,"Bali, Indonesia",7/20/2022,7/30/2022,10,Emily Kim,29,Female,Korean,Hostel,800.0
+Plane,"Cancun, Mexico",8/8/2022,8/16/2022,8,Frank Li,41,Male,American,Hotel,600.0
+Plane,"Athens, Greece",9/20/2022,9/30/2022,10,Gina Lee,35,Female,Korean,Airbnb,900.0
+Plane,"Tokyo, Japan",10/5/2022,10/13/2022,8,Henry Kim,24,Male,Korean,Hotel,700.0
+Plane,"Sydney, Aus",11/11/2022,11/21/2022,10,Isabella Chen,30,Female,Chinese,Airbnb,1000.0
+Plane,"Paris, France",12/24/2022,1/1/2023,8,Jack Smith,28,Male,American,Hostel,700.0
+Plane,"Bali, Indonesia",2/10/2023,2/18/2023,8,Katie Johnson,33,Female,Canadian,Hotel,800.0
+Airplane,"Paris, France",5/1/2023,5/7/2023,6,John Doe,35,Male,American,Hotel,2500.0
+Car,"Cape Town, South Africa",6/1/2023,6/10/2023,9,Michael Johnson,45,Male,South African,Hostel,2000.0
+Airplane,"Sydney, Australia",6/15/2023,6/21/2023,6,Sarah Lee,31,Female,Australian,Hotel,3000.0
+Airplane,"New York City, USA",7/15/2023,7/22/2023,7,Emily Davis,27,Female,American,Hotel,2500.0
+Car,"Rio de Janeiro, Brazil",8/1/2023,8/10/2023,9,Jose Perez,37,Male,Brazilian,Hostel,2000.0
+Airplane,"Vancouver, Canada",8/15/2023,8/21/2023,6,Emma Wilson,29,Female,Canadian,Hotel,3000.0
+Airplane,"Barcelona, Spain",9/15/2023,9/22/2023,7,Sofia Rodriguez,25,Female,Spanish,Airbnb,2500.0
